@@ -1,0 +1,20 @@
+Dashboard public link
+------------------------
+Dashboard1:
+-----------------
+https://public.tableau.com/views/NMDashboard1_16972108943530/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+
+Dasboard2:
+----------------
+https://public.tableau.com/views/NMdashboard2/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link
+
+Story link
+------------------
+Story1:
+----------
+https://public.tableau.com/views/NMStory1_16968602103660/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
+
+Story2:
+----------
+https://public.tableau.com/views/NMStory2_16968602876880/Story2?:language=en-US&:display_count=n&:origin=viz_share_link
+
